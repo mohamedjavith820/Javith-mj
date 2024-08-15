@@ -40,6 +40,14 @@ This guide provides steps to set up a Jenkins job for building and deploying a p
 2. **Test CI/CD:**
    - Modify code in GitHub to trigger an automatic build.
 
+## Example Output
+
+You can access the deployed web application at [http://52.91.196.140:8080/webapp/](http://52.91.196.140:8080/webapp/).
+
+![Web Application Screenshot](Capture1.PNG)
+
+_Description_: This screenshot shows the welcome page of the deployed web application, displaying the message "Hello, Welcome JAVITH !!!".
+
 ## Conclusion
 
 Your Jenkins job is now set up for automated build, deployment, and CI/CD, ensuring continuous integration and deployment of changes to a Tomcat server.
