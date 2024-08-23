@@ -42,7 +42,7 @@ This guide provides steps to set up a Jenkins job for building and deploying a p
 
 ## Example Output
 
-You can access the deployed web application at [http://52.91.196.140:8080/webapp/](http://52.91.196.140:8080/webapp/).
+You can access the deployed web application at [http://54.173.18.73:8080/webapp/](http://52.91.196.140:8080/webapp/).
 
 ![Web Application Screenshot](Capture1.PNG)
 
